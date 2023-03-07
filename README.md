@@ -3,8 +3,8 @@
 I'm a full time employee at [Co-op Solutions](https://www.coop.org/)  
 My favorite programming language is Rust (_not a cult_)
 
-- 🔭 I’m currently working on the [Advent of Code 2022](https://adventofcode.com)
-- 🤔 I’m looking for help with [this scheduling application](https://github.com/thelettertheta/zeitplan)
+- 🔭 I’m currently working on [this scheduling application](https://github.com/thelettertheta/zeitplan) 
+- 💬 Ask me about my [Advent of Code 2022 solutions](https://adventofcode.com)
 - 🌱 I’m currently learning AWS
 - 👨🏻‍💻 [Linux enthusiast](https://www.gentoo.org/)
 <div>
