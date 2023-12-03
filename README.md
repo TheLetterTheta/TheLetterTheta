@@ -4,8 +4,8 @@ I'm a full time employee at [Co-op Solutions](https://www.coop.org/)
 My favorite programming language is Rust (_not a cult_)
 
 - 🔭 I’m currently working on [this scheduling application](https://github.com/thelettertheta/zeitplan) 
-- 💬 Ask me about my [Advent of Code 2022 solutions](https://adventofcode.com)
-- 🌱 I’m currently learning AWS
+- 💬 Ask me about my [Advent of Code 2023 solutions](https://adventofcode.com)
+- 🌱 I’m currently learning [Leptos](https://www.leptos.dev/) by making a ranked choice voting website with [Shuttle](https://www.shuttle.rs/)
 - 👨🏻‍💻 [Linux enthusiast](https://www.gentoo.org/)
 <div>
 <img align="center" aria-label="My Github stats" src="https://github-readme-stats.vercel.app/api?username=thelettertheta&show_icons=true&theme=dracula" />
