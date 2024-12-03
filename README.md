@@ -1,11 +1,12 @@
 ## Hello! My name is Nick!
 
-I'm a full time employee at [Co-op Solutions](https://www.coop.org/)  
+I'm a full time employee at [Velera](https://www.velera.com/)  
 My favorite programming language is Rust (_not a cult_)
 
 - 🔭 I’m currently working on [this scheduling application](https://github.com/thelettertheta/zeitplan) 
-- 💬 Ask me about my [Advent of Code 2023 solutions](https://adventofcode.com)
-- 🌱 I’m currently learning [Leptos](https://www.leptos.dev/) by making a ranked choice voting website with [Shuttle](https://www.shuttle.rs/)
+- 💬 Ask me about my [Advent of Code 2024 solutions](https://adventofcode.com)
+- 🕹 Using Colemak-DH keyboard layout [My Keyboard and layout](https://configure.zsa.io/moonlander/layouts/bZGqj/latest/0)
+- 🌱 I’m currently learning [Bevy](https://bevyengine.org/)
 - 👨🏻‍💻 [Linux enthusiast](https://www.gentoo.org/)
 <div>
 <img align="center" aria-label="My Github stats" src="https://github-readme-stats.vercel.app/api?username=thelettertheta&show_icons=true&theme=dracula" />
